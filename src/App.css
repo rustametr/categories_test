@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.categorie-container{
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+}
+
+.categorie{
+  width: 100%;
+  background: #5757ff;
+  color: #fff;
+}

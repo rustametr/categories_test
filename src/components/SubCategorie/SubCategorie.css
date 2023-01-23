@@ -1,0 +1,11 @@
+
+.sub-categories-container{
+    width: 100%;
+    background: rgb(247, 88, 88);
+    color: #fff;
+  }
+  
+  .sub-categories-wrapper{
+    height: 54px;
+    overflow: hidden;
+  }
